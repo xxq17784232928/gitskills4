@@ -1,1 +1,2 @@
-this is my first readme!
+this is my first readme.txt
+Creating a new branch is quick.
